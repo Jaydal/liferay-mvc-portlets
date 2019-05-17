@@ -1,0 +1,4 @@
+Bundle-Name: PersonEntry
+Bundle-SymbolicName: PersonEntry
+Bundle-Version: 1.0.0
+Export-Package: PersonEntry.constants

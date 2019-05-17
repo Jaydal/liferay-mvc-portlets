@@ -1,0 +1,4 @@
+Bundle-Name: JDAL_Portlet
+Bundle-SymbolicName: com.portlet.jdal
+Bundle-Version: 1.0.0
+Export-Package: com.portlet.jdal.constants

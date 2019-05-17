@@ -1,0 +1,4 @@
+Bundle-Name: SsamplePortlet
+Bundle-SymbolicName: SsamplePortlet
+Bundle-Version: 1.0.0
+Export-Package: SsamplePortlet.constants

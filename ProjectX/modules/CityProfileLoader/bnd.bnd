@@ -1,0 +1,4 @@
+Bundle-Name: CityProfileLoader
+Bundle-SymbolicName: CityProfileLoader
+Bundle-Version: 1.0.0
+Export-Package: CityProfileLoader.constants
